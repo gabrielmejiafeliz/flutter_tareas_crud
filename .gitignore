@@ -1,0 +1,59 @@
+# Flutter/Dart/Pub related
+**/doc/api/
+**/android/**/gradle-wrapper.jar
+
+# Editors
+.idea/
+.vscode/
+*.iml
+
+# Files and directories created by pub
+.dart_tool/
+.packages
+build/
+flutter_*.png
+.generated/
+
+# iOS/Xcode
+ios/Flutter/.last_build_id
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/.generated/
+ios/Pods/
+ios/Podfile.lock
+
+# macOS
+macos/Flutter/ephemeral/
+macos/Pods/
+macos/Podfile.lock
+
+# Android/IntelliJ
+*.apk
+*.aar
+*.ap_
+local.properties
+
+# Android studio generated files
+.idea/
+.gradle/
+local.properties
+.DS_Store
+
+# Symbolicating
+app.*.symbols
+app.*.dSYM
+app.*.symbol
+
+# CocoaPods
+Pods/
+Podfile.lock
+
+# Flutter specific
+.flutter-plugins
+.packages
+.flutter-plugins-dependencies
+.dart_tool/
+.flutter-plugins
+.packages
+.flutter-plugins-dependencies
+.pub-cache/
